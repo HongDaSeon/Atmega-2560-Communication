@@ -17,3 +17,4 @@ Atmega series is the one of the easiest microprocessor to use the platform to th
 ## Warning
 
 Compiled.asm file is the compiled assembly file. Do not put that on your board though. Dunno what happens next
+Atmega Communication source code in here, but I won't explain how it works. just aware that it is used for drone flight. Then figure out
