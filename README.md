@@ -12,3 +12,8 @@ Atmega series is the one of the easiest microprocessor to use the platform to th
 >> UART
 
 > Analog Comm
+
+
+## Warning
+
+Compiled.asm file is the compiled assembly file. Do not put that on your board though. Dunno what happens next
